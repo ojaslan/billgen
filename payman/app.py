@@ -1,11 +1,3 @@
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-
-openai_api_key = os.getenv("OPENAI_API_KEY")
-payman_api_secret = os.getenv("PAYMAN_API_SECRET")
-
 import streamlit as st
 import os
 import tempfile
