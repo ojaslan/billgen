@@ -1,7 +1,6 @@
-paymanai
 streamlit
-Pillow
 pytesseract
+pillow
 PyMuPDF
 openai
-pytesseract
+payman
